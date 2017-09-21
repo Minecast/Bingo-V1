@@ -1,0 +1,6 @@
+main: com.minecastdevelopment.Bingo.Bingo
+name: Bingo_V1
+version: 1.0
+commands:
+  bingo:
+    description: Main Command for this plugin.
